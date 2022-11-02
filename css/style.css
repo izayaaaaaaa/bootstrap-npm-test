@@ -37,3 +37,13 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+h4.card-header {
+    background-color: #FDC02F;
+    color: white;
+}
+
+a.btn-sm {
+    background-color: #FDC02F;
+    color: black;
+}
